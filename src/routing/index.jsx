@@ -1,7 +1,7 @@
 import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-import HomePage from "./Homepage/HomePage";
+import HomePage from "./HomePage/HomePage";
 import TodoList from "../Pages/TodoList/TodoList";
 import VCreateTodo from "../Pages/VCreateTodo/VCreateTodo";
 import DetailTodo from "../Pages/DetailTodo/DetailTodo";
